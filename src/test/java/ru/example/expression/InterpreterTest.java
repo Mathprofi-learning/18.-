@@ -14,9 +14,6 @@ import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-/**
- * Тесты базового уровня интерпретатора.
- */
 class InterpreterTest {
 
     private static final double EPS = 1e-9;
